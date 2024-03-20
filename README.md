@@ -5,7 +5,7 @@
 <p align = "justify">Full Stack Developer</p>
 
 
-I'm learning at the moment **Nodejs ReactNative, ReactJS**
+I'm learning at the moment **Go, Rust**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-araujo-093377152/)](https://www.linkedin.com/in/wallace-araujo-093377152/)
